@@ -1,6 +1,6 @@
 # Gama Academy - JavaScript
 
-# Projeto do Hiring Coders #2
+# Hiring Coders Project #2
 
 # Skills
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

@@ -1,4 +1,4 @@
-# Gama Academy - JavaScript
+# JavaScript - Gama Academy
 
 # Hiring Coders Project #2
 
